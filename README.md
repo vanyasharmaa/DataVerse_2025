@@ -17,10 +17,10 @@ Discover how to effectively visualize your data using charts and plots. This not
 
 How to Use
 
-Open each notebook in Jupyter Notebook or JupyterLab.
+- Open each notebook in [Jupyter Notebook](https://ubc.syzygy.ca/)
 
-Follow the instructions and prompts in each cell.
+- Follow the instructions and prompts in each cell.
 
-Try modifying the examples and exercises to deepen your understanding.
+- Try modifying the examples and exercises to deepen your understanding.
 
-Use these notebooks as reference material for your own data projects.
+- Use these notebooks as reference material for your own data projects.
