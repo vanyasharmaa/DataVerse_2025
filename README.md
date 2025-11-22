@@ -15,7 +15,7 @@ Explore methods to analyze datasets, generate insights, and summarize informatio
 ### Data Visualization
 Discover how to effectively visualize your data using charts and plots. This notebook demonstrates how to create meaningful visualizations to communicate insights clearly and effectively.
 
-How to Use
+#### How to Use
 
 - Open each notebook in [Jupyter Notebook](https://ubc.syzygy.ca/)
 
