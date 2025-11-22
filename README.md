@@ -1,5 +1,3 @@
-# DataVerse_2025
-
 # DataVerse 2025 Workshop Series
 
 Welcome to this Data Workshop Series, designed to guide you through the key stages of working with data. These workshops are perfect for beginners who want a hands-on introduction to data cleaning, analysis, and visualization using Python and popular libraries.
